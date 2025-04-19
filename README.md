@@ -1,1 +1,1 @@
-# Sentiment_Analysis
+ Analyze the sentiment of celebrity tweets and posts using a rule-based model: the VADER model, an open-source model published by the University of Georgia in the USA. It is mainly used for social network analysis. 
